@@ -238,7 +238,7 @@ def run_test_count_sines_vs_cosines():
 
     # Test 2:
     expected = 2
-    answer = count_sines_vs_cosines(2)
+    answer = count_sines_vs_cosines(0)
     print('Test 2 expected:', expected)
     print('       actual:  ', answer)
 
